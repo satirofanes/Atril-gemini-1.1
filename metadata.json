@@ -1,0 +1,7 @@
+{
+  "name": "Atril",
+  "description": "Atril lee PDF, Office y ebooks, y los anota con pluma, marcador y notas al margen. Cada marca tiene una clave para localizar el comentario.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
